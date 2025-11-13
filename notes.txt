@@ -2,3 +2,5 @@
     for a single post wordpress will use single.php file if it is not there it will fallback to index.php
 
     for a single page wordpress will use page.php if it is not there it will fallback to index.php
+
+# Create index, single, page, header and footer php files
