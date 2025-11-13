@@ -6,5 +6,3 @@
 </head>
 <body>
     <h1>Wexford University</h1>
-</body>
-</html>
