@@ -1,0 +1,4 @@
+# depending on the url wordpress will be on the look out for different file names in our theme folder
+    for a single post wordpress will use single.php file if it is not there it will fallback to index.php
+
+    for a single page wordpress will use page.php if it is not there it will fallback to index.php
